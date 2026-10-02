@@ -19,7 +19,7 @@ Salesforce CRM • Lightning • Flows • Apex • Batch Apex • Scheduled Ape
 
 ### Team
 
-* Rifana Yasmin J – Team Leader
+* Rifana Yasmin J
 * Srinithi S
 * Shainthavi K
 * Vasundhara M.R.
