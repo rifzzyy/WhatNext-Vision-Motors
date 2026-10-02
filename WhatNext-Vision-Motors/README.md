@@ -1,0 +1,27 @@
+# WhatNext Vision Motors
+
+**Shaping the Future of Mobility with Innovation and Excellence**
+
+A Salesforce CRM project for managing vehicles, customers, dealers, orders, test drives, and service requests.
+
+### Features
+
+* Vehicle & customer management
+* Stock validation
+* Automatic dealer assignment
+* Order management
+* Test drive reminders
+* Reports & dashboards
+
+### Technologies
+
+Salesforce CRM • Lightning • Flows • Apex • Batch Apex • Scheduled Apex
+
+### Team
+
+* Rifana Yasmin J – Team Leader
+* Srinithi S
+* Shainthavi K
+* Vasundhara M.R.
+
+Demonstration Link: 
